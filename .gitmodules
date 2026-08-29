@@ -1,0 +1,3 @@
+[submodule "Sources/Cgpr_tools/gpr"]
+	path = Sources/Cgpr_tools/gpr
+	url = https://github.com/gopro/gpr.git

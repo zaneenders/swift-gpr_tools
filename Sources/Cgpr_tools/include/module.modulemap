@@ -1,0 +1,4 @@
+module Cgpr_tools {
+    header "gpr_bridge.h"
+    export *
+}
